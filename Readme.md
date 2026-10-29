@@ -166,7 +166,3 @@ python assets/examples/04_evaluate.py                      # test folder -> metr
 - `F11` — Full Screen / Windowed
 - `R` — Reset Defaults
 - `Q` — Quit
-
-## ⚠️ Privacy
-
-`assets/database` and `assets/test` contain photos of identifiable people. See `assets/DATASET_NOTICE.md`: publish face images only with consent and redistribution permission.
